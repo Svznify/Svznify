@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Svzn</h1>
 <h3 align="center">A developer and founder of 1Anime</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev1anim&label=Profile%20views&color=0e75b6&style=flat" alt="dev1anim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Svznify&label=Profile%20views&color=0e75b6&style=flat" alt="Svznify" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev1anim" alt="dev1anim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Svznify" alt="Svznify" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/1animeapp" target="blank"><img src="https://img.shields.io/twitter/follow/1animeapp?logo=twitter&style=for-the-badge" alt="1animeapp" /></a> </p>
 
@@ -37,8 +37,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/1Anime"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="1Anime" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev1anim&show_icons=true&locale=en&layout=compact" alt="dev1anim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Svznify&show_icons=true&locale=en&layout=compact" alt="Svznify" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev1anim&show_icons=true&locale=en" alt="dev1anim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Svznify&show_icons=true&locale=en" alt="Svznify" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev1anim&" alt="dev1anim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Svznify&" alt="Svznify" /></p>
