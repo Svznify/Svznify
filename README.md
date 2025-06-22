@@ -2,7 +2,7 @@
 
 ###
 
-<a href="https://app.daily.dev/svznify"><img src="./devcard.png?r=zyx&type=wide" width="652" alt="Svzn Hoshino's Dev Card"/></a>
+<a href="https://app.daily.dev/svznify"><img src="https://raw.githubusercontent.com/Svznify/Svznify/refs/heads/main/devcard.png" width="356" alt="Svzn Hoshino's Dev Card"/></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
