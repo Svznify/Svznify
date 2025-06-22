@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Svzn and I'm a dumb developer from Singapore</h2>
-
-###
-
 <a href="https://app.daily.dev/svznify"><img src="https://raw.githubusercontent.com/Svznify/Svznify/refs/heads/main/devcard.png" width="356" alt="Svzn Hoshino's Dev Card"/></a>
 
 <div align="left">
