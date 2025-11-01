@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Just a dumb developer | Certified Vibe Coder (not that proud but AI prompting is my thing) | <a href="https://1anime.app" target="_blank">@1Anime</a></b><br>
-  <a href="https://svzn.devx.moe" target="_blank">🌐 svzn.devx.moe</a> •
+  <a href="https://svznify.dev" target="_blank">🌐 svznify.dev</a> •
   <a href="https://twitter.com/Svznify" target="_blank">🐦 @Svznify</a> •
   <a href="https://discord.gg/1anime" target="_blank">💬 1Anime Discord</a>
 </p>
