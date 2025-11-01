@@ -33,7 +33,7 @@
   <a href="https://twitter.com/Svznify"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.gg/1anime"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://ko-fi.com/1anime"><img src="https://img.shields.io/badge/Ko--fi-f16061?style=for-the-badge&logo=kofi&logoColor=white"/></a>
-  <a href="https://svzn.devx.moe"><img src="https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://svznify.dev"><img src="https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=googleearth&logoColor=white"/></a>
 </p>
 
 ---
